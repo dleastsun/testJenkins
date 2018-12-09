@@ -1,7 +1,7 @@
 package com.test;
 
 public class Test {
-	private String name="999";
+	private String name="0000";
 
 	public String getName() {
 		return name;
